@@ -1,5 +1,6 @@
 # ER Diagram Workshop 
-
+## developed by:JAYA ABIRAMI S
+## REG NO:212223220038 
 ## Objective
 To understand and apply ER modeling concepts by creating ER diagrams for real-world applications.
 
